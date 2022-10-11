@@ -8,11 +8,9 @@
 
 你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 [Issues ](https://github.com/SwiftOldDriver/iOS-Weekly/issues) 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 [Issues ](https://github.com/SwiftOldDriver/iOS-Weekly/issues) 提出。
 
-## 支持我们：[WWDC20 内参](https://xiaozhuanlan.com/wwdc20)
+## 支持我们：[WWDC21 内参](https://xiaozhuanlan.com/wwdc21)
 
-- 一年一度的 WWDC 又来啦！今年一共会有 135 个 Sessions 内容，我们将集结老司机 iOS 周报、知识小集和SwiftGG 翻译组三大组织内的一线 iOS 工程师，为你深度解读 WWDC20 中那些值得关注的 Session。
-- 戴铭老师的「[iOS 开发高手课](http://gk.link/a/10qjQ)」内容质量很高，很适合中高级开发者学习。
-
+- 一年一度的 WWDC 又来啦！今年官方一共会有 220+ 个 Sessions 内容，我们将集结老司机 iOS 周报编辑以及社区内的一线 iOS 工程师，为你深度解读 WWDC21 中那些值得关注的 Session。
 
 ## 订阅周报
 
@@ -31,14 +29,11 @@
 
 #### 轮值主编
 <div>
-<a href='https://github.com/ParsifalC'>
-<img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/ParsifalC.png?raw=true'>
+<a href='https://github.com/Damonvvong'>
+<img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/Damonvvong.png?raw=true'>
 </a>
 <a href='https://github.com/linwenbang'>
 <img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/linwenbang.png?raw=true'>
-</a>
-<a href='https://github.com/Damonvvong'>
-<img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/Damonvvong.png?raw=true'>
 </a>
 </div>
 
@@ -57,14 +52,8 @@
 <a href='https://github.com/Damonvvong'>
 <img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/Damonvvong.png?raw=true'>
 </a>
-<a href='https://github.com/josephchang10'>
-<img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/josephchang10.png?raw=true'>
-</a>
 <a href='https://github.com/raozhizhen'>
 <img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/raozhizhen.png?raw=true'>
-</a>
-<a href='https://github.com/ParsifalC'>
-<img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/ParsifalC.png?raw=true'>
 </a>
 <a href='https://github.com/aaaron7'>
 <img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/aaaron7.png?raw=true'>
@@ -77,9 +66,6 @@
 </a>
 <a href='https://github.com/waterXu'>
 <img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/waterXu.png?raw=true'>
-</a>
-<a href='https://github.com/looping'>
-<img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/looping.png?raw=true'>
 </a>
 <a href='https://github.com/olddonkey'>
 <img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/olddonkey.png?raw=true'>
@@ -96,9 +82,6 @@
 <a href='https://github.com/nianran'>
 <img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/nianran.png?raw=true'>
 </a>
-<a href='https://github.com/waz0820'>
-<img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/waz0820.png?raw=true'>
-</a>
 <a href='https://github.com/zvving'>
 <img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/zvving.png?raw=true'>
 </a>
@@ -111,9 +94,6 @@
 <a href='https://github.com/CrazyCoderShi'>
 <img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/CrazyCoderShi.png?raw=true'>
 </a>
-<a href='https://github.com/SatanWoo'>
-<img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/SatanWoo.png?raw=true'>
-</a>
 <a href='https://github.com/ztlyyznf001'>
 <img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/ztlyyznf001.png?raw=true'>
 </a>
@@ -125,6 +105,15 @@
 </a>
 <a href='https://github.com/LeoMobileDeveloper'>
 <img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/LeoMobileDeveloper.jpeg?raw=true'>
+</a>
+<a href='https://github.com/iostalks'>
+<img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/iostalks.png?raw=true'>
+</a>
+<a href='https://github.com/ChengzhiHuang'>
+<img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/chengzhi.png?raw=true'>
+</a>
+<a href='https://github.com/BarneyZhaoooo'>
+<img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/barney.png?raw=true'>
 </a>
 </div>
 
@@ -152,19 +141,32 @@
 <a href='https://github.com/yxztj'>
 <img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/yxztj.png?raw=true'>
 </a>
+<a href='https://github.com/josephchang10'>
+<img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/josephchang10.png?raw=true'>
+</a>
+<a href='https://github.com/looping'>
+<img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/looping.png?raw=true'>
+</a>
+<a href='https://github.com/waz0820'>
+<img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/waz0820.png?raw=true'>
+</a>
+<a href='https://github.com/ParsifalC'>
+<img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/ParsifalC.png?raw=true'>
+</a>
+<a href='https://github.com/SatanWoo'>
+<img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/SatanWoo.png?raw=true'>
+</a>
 </div>
 
 ## 关于我们
 
-老司机技术周报是一个由移动端技术爱好者组成的团体，致力于在信息爆炸的时代将真正有价值的内容输送给读者。我们曾联合 SwiftGG 和知识小集等一起组织了近 4 年的《WWDC 内参》活动，GitHub、公众号和掘金等平台均拥有广大的读者群体，2018 年至今共发布 150 余期，各个渠道累计周报的阅读量达 500 多万次。
+老司机技术周报是一个由移动端技术爱好者组成的团体，致力于在信息爆炸的时代将真正有价值的内容输送给读者。我们曾联合 SwiftGG 和知识小集等一起组织了近 4 年的《WWDC 内参》活动，GitHub、公众号和掘金等平台均拥有广大的读者群体，2018 年至今共发布 180 余期，各个渠道累计周报的阅读量达 500 多万次。
 
 ## 其他
 
 本周报图标及头图设计者为知名设计美学博主 [@SketchK](https://github.com/SketchK)，`Swift 老司机活动中心` 与 `SketchK` 对其以及其衍生物保留一切权利。另外，非常感谢 [mmoaay](https://weibo.com/smmoaay) 为周报团队设计的第一代 Logo。
 
 ## 赞助者
-
-虚位以待..
 
 **非常感谢以上赞助者的支持，如果你也有赞助我们的兴趣，欢迎添加微信 iTDriverr 哦~**
 
